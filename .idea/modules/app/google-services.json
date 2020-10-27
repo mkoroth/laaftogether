@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078958672449",
+    "firebase_url": "https://laaftogether-28897.firebaseio.com",
+    "project_id": "laaftogether-28897",
+    "storage_bucket": "laaftogether-28897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078958672449:android:178345d1bcbdc61a0b14c0",
+        "android_client_info": {
+          "package_name": "com.example.laaftogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078958672449-bb58chj99cfv1c38450rj433ajoogfrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laaftogether",
+            "certificate_hash": "954c6ae8af71c3cca4b8ad77761acbb32f642143"
+          }
+        },
+        {
+          "client_id": "1078958672449-ooki07p1dfn9rrloccb7ihf4qkcvc9n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVeQ2ASGruanBDgQp4LOF0XvHdrXqbaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078958672449-ooki07p1dfn9rrloccb7ihf4qkcvc9n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

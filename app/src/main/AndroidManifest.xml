@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gbc.laaftogether">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.gbc.laaftogether.AdminActivity"></activity>
+        <activity android:name="com.gbc.laaftogether.LoginActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.gbc.laaftogether.SpecialistProfileActivity" />
+        <activity android:name="com.gbc.laaftogether.UserProfileActivity" />
+        <activity android:name="com.gbc.laaftogether.HomeActivity" />
+        <activity android:name="com.gbc.laaftogether.FirstActivity">
+
+        </activity>
+        <activity android:name="com.RegisterUser" >
+
+        </activity>
+        <activity android:name="com.gbc.laaftogether.MainActivity" />
+    </application>
+
+</manifest>
